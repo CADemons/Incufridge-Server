@@ -142,3 +142,133 @@
 2017/02/19 15:30:32 incufridge has connected
 2017/02/19 15:30:43 incufridge has connected
 2017/02/19 15:31:27 incufridge has connected
+2017/02/26 15:17:56 client has connected
+2017/02/26 15:18:07 received message: get_temp
+2017/02/26 15:18:07 Sent message
+2017/02/26 15:19:49 Launching server...
+2017/02/26 15:21:39 Launching server...
+2017/02/26 15:21:45 client has connected
+2017/02/26 15:22:00 incufridge has connected
+2017/02/26 15:22:12 received message: get_temp
+2017/02/26 15:22:12 Sent message
+2017/02/26 15:22:15 Received response:  37.9
+2017/02/26 15:22:21 received message: get_log
+2017/02/26 15:22:21 Sent message
+2017/02/26 15:22:24 Received response:  Created on Thursday February 2, 2017 at 5:04:10 PM_newline__newline_Temperature: 29.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:06 PM_newline__newline_Temperature: 40.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:10 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:29 PM_newline__newline_Temperature: 30.1_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:34 PM_newline__newline_Temperature: 39.8_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:36 PM_newline__newline_Temperature: 39.7_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:22:02 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:13 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:17 PM_newline__newline_Temperature: 41.9_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:13 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:16 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:18 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:13 PM_newline__newline_Temperature: 20.0_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:16 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:38 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:41 PM_newline__newline_Temperature: 36.1_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:26 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_
+2017/02/26 15:22:42 received message: get_log
+2017/02/26 15:22:42 Sent message
+2017/02/26 15:22:44 Received response:  Created on Thursday February 2, 2017 at 5:04:10 PM_newline__newline_Temperature: 29.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:06 PM_newline__newline_Temperature: 40.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:10 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:29 PM_newline__newline_Temperature: 30.1_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:34 PM_newline__newline_Temperature: 39.8_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:36 PM_newline__newline_Temperature: 39.7_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:22:02 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:13 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:17 PM_newline__newline_Temperature: 41.9_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:13 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:16 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:18 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:13 PM_newline__newline_Temperature: 20.0_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:16 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:38 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:41 PM_newline__newline_Temperature: 36.1_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:26 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:46 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_
+2017/02/26 15:22:59 received message: run_command set temp 10
+2017/02/26 15:22:59 Sent message
+2017/02/26 15:22:59 Received response:  done
+2017/02/26 15:25:07 received message: 
+2017/02/26 15:25:07 client disconnected
+2017/02/26 16:31:17 incufridge has connected
+2017/02/26 16:31:35 client has connected
+2017/02/26 16:31:45 received message: get_temp
+2017/02/26 16:31:45 Sent message
+2017/02/26 16:31:48 Received response:  27.9
+2017/02/26 16:31:54 received message: get_log
+2017/02/26 16:31:54 Sent message
+2017/02/26 16:31:58 Received response:  Created on Thursday February 2, 2017 at 5:04:10 PM_newline__newline_Temperature: 29.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:06 PM_newline__newline_Temperature: 40.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:10 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:29 PM_newline__newline_Temperature: 30.1_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:34 PM_newline__newline_Temperature: 39.8_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:36 PM_newline__newline_Temperature: 39.7_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:22:02 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:13 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:17 PM_newline__newline_Temperature: 41.9_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:13 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:16 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:18 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:13 PM_newline__newline_Temperature: 20.0_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:16 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:38 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:41 PM_newline__newline_Temperature: 36.1_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:26 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:46 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 5:28:00 PM_newline__newline_Temperature: 27.8_newline_Target Temperature: 10_newline__newline__newline_
+2017/02/26 16:32:43 received message: send_file every 240 minutes today now ( set temp 30 ) temp20_newline_every 240 minutes today now+120 ( set temp 10 ) temp10_newline_every 180 minutes today now ( log ) logger_newline__newline_
+2017/02/26 16:32:43 Sent message
+2017/02/26 16:32:44 Received response:  0
+2017/02/26 16:34:36 received message: 
+2017/02/26 16:34:36 client disconnected
+2017/02/26 16:38:41 incufridge has connected
+2017/02/26 16:38:53 client has connected
+2017/02/26 16:38:55 received message: get_temp
+2017/02/26 16:38:55 Sent message
+2017/02/26 16:38:55 Received response:  
+2017/02/26 16:38:57 received message: 
+2017/02/26 16:38:57 client disconnected
+2017/02/26 16:39:34 Launching server...
+2017/02/26 16:40:00 incufridge has connected
+2017/02/26 16:40:12 client has connected
+2017/02/26 16:40:14 received message: get_temp
+2017/02/26 16:40:14 Sent message
+2017/02/26 16:40:17 Received response:  29.8
+2017/02/26 16:40:28 received message: send_file every 240 minutes today now ( set temp 30 ) temp20_newline_every 240 minutes today now+120 ( set temp 10 ) temp10_newline_every 180 minutes today now ( createlog ) logger_newline__newline_
+2017/02/26 16:40:28 Sent message
+2017/02/26 16:40:28 Received response:  0
+2017/02/26 16:41:00 received message: 
+2017/02/26 16:41:00 client disconnected
+2017/02/26 16:41:16 client has connected
+2017/02/26 16:41:18 received message: get_temp
+2017/02/26 16:41:18 Sent message
+2017/02/26 16:41:21 Received response:  29.6
+2017/02/26 16:41:25 received message: get_log
+2017/02/26 16:41:25 Sent message
+2017/02/26 16:41:27 Received response:  Created on Thursday February 2, 2017 at 5:04:10 PM_newline__newline_Temperature: 29.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:06 PM_newline__newline_Temperature: 40.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:05:10 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:29 PM_newline__newline_Temperature: 30.1_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:34 PM_newline__newline_Temperature: 39.8_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:21:36 PM_newline__newline_Temperature: 39.7_newline_Target Temperature: 40_newline__newline__newline_Created on Thursday February 2, 2017 at 5:22:02 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:13 PM_newline__newline_Temperature: 39.6_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:24:17 PM_newline__newline_Temperature: 41.9_newline_Target Temperature: 50_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:13 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:16 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 2, 2017 at 5:49:18 PM_newline__newline_Temperature: 48.2_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:13 PM_newline__newline_Temperature: 20.0_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:16 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:38 PM_newline__newline_Temperature: 36.2_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 16, 2017 at 4:29:41 PM_newline__newline_Temperature: 36.1_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:26 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 4:18:46 PM_newline__newline_Temperature: 37.9_newline_Target Temperature: 20_newline__newline__newline_Created on Thursday February 23, 2017 at 5:28:00 PM_newline__newline_Temperature: 27.8_newline_Target Temperature: 10_newline__newline__newline_Created on Thursday February 23, 2017 at 5:36:36 PM_newline__newline_Temperature: 30.0_newline_Target Temperature: 30_newline__newline__newline_Created on Thursday February 23, 2017 at 5:37:29 PM_newline__newline_Temperature: 29.6_newline_Target Temperature: 30_newline__newline__newline_
+2017/02/26 16:41:35 received message: 
+2017/02/26 16:41:35 client disconnected
+2017/03/05 15:07:25 Launching server...
+2017/03/05 15:07:29 client has connected
+2017/03/05 15:07:34 received message: 
+2017/03/05 15:07:34 client disconnected
+2017/03/05 15:07:40 Launching server...
+2017/03/05 15:43:54 incufridge has connected
+2017/03/05 15:44:33 client has connected
+2017/03/05 15:44:57 received message: send_file every 240 minutes today now ( set temp 60 ) temp60_newline_every 240 minutes today now+120 ( set temp 30 ) temp30_newline_every 180 minutes today now ( createlog ) logger_newline__newline_
+2017/03/05 15:44:57 Sent message
+2017/03/05 15:44:57 Received response:  0
+2017/03/05 15:45:49 received message: get_temp
+2017/03/05 15:45:49 Sent message
+2017/03/05 15:45:49 Received response:  60.0
+2017/03/05 15:45:50 received message: get_temp
+2017/03/05 15:45:50 Sent message
+2017/03/05 15:45:52 Received response:  16.6
+2017/03/05 15:45:52 received message: get_temp
+2017/03/05 15:45:52 Sent message
+2017/03/05 15:45:53 Received response:  16.6
+2017/03/05 16:01:52 received message: 
+2017/03/05 16:01:52 client disconnected
+2017/04/02 14:46:31 incufridge has connected
+2017/04/02 14:59:31 incufridge has connected
+2017/04/02 15:03:53 incufridge has connected
+2017/04/02 15:04:49 incufridge has connected
+2017/04/02 15:05:13 incufridge has connected
+2017/04/02 15:06:16 incufridge has connected
+2017/04/02 15:07:07 incufridge has connected
+2017/04/02 15:08:34 incufridge has connected
+2017/04/02 15:10:11 incufridge has connected
+2017/04/02 15:14:03 incufridge has connected
+2017/04/02 15:15:05 incufridge has connected
+2017/04/02 15:18:19 incufridge has connected
+2017/04/02 15:20:00 incufridge has connected
+2017/04/02 15:21:32 incufridge has connected
+2017/04/02 15:22:49 incufridge has connected
+2017/04/02 15:23:08 incufridge has connected
+2017/04/09 14:51:16 incufridge has connected
+2017/04/09 14:53:33 incufridge has connected
+2017/04/09 14:56:16 client has connected
+2017/04/09 14:56:19 received message: get_temp
+2017/04/09 14:56:19 Sent message
+2017/04/09 14:56:19 Received response:  
+2017/04/09 14:56:22 received message: 
+2017/04/09 14:56:22 client disconnected
+2017/04/09 14:56:38 incufridge has connected
+2017/04/09 14:59:10 incufridge has connected
+2017/04/09 15:00:10 incufridge has connected
+2017/04/09 15:10:38 incufridge has connected
+2017/05/07 15:38:43 Launching server...
+2017/05/07 15:40:43 Launching server...
+2017/05/07 15:41:24 Launching server...
+2017/05/07 15:42:59 Launching server...
+2017/05/07 15:43:15 Launching server...
+2017/05/07 15:44:32 incufridge has connected
+2017/05/07 15:45:29 client has connected
+2017/05/07 15:45:37 received message: get_temp
+2017/05/07 15:45:37 Sent message
+2017/05/07 15:45:39 Received response:  25.7
+2017/05/07 15:46:31 received message: run_command set temp 20
+2017/05/07 15:46:31 Sent message
+2017/05/07 15:46:31 Received response:  done
+2017/05/07 15:51:36 received message: 
+2017/05/07 15:51:36 client disconnected
+2017/05/14 15:07:39 Launching server...
+2017/05/14 15:10:46 Launching server...
+2017/05/14 15:10:51 client has connected
+2017/05/14 15:10:55 received message: 
+2017/05/14 15:10:55 client disconnected

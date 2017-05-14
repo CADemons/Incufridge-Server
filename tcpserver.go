@@ -3,11 +3,15 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net"
 	"os"
 	"strings"
 )
+
+// This server just relays information between the Raspberry Pi connected to the incufridge
+// and the user. When it receives a message from one it just sends it along to the next one.
 
 var incufridgeConn net.Conn
 var incufridgeReader *bufio.Reader
@@ -15,6 +19,21 @@ var incufridgeReader *bufio.Reader
 func handleClient(conn net.Conn) {
 	reader := bufio.NewReader(conn)
 	// will listen for message to process ending in newline (\n)
+	password, err := reader.ReadString('\n')
+	if err != nil {
+		log.Println("Client disconnected")
+		return
+	}
+
+	authPassData, _ := ioutil.ReadFile("auth")
+	authPass := strings.TrimSpace(string(authPassData))
+	password = strings.TrimSpace(password)
+
+	if password != authPass {
+		log.Println("Incorrect password: " + password)
+		return
+	}
+
 	name, err := reader.ReadString('\n')
 	if err != nil {
 		log.Println("Client disconnected")
