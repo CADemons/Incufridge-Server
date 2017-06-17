@@ -27,12 +27,16 @@ $ ./run.sh
 
 (this should compile and run) from the terminal in the root directory of the project (on the raspberry pi we have been using, this runs automatically on startup). Make sure you plug the arduino into the raspberry pi and turn everything on too (remember to tap the fan in the back too if you are still using the same fridge I was).
 
+You will need the `auth` file to be in the current directory.
+
 ### [Incufridge-Server](https://github.com/cademons/Incufridge-Server)
 This is the Go code for the server which runs on cademons.org. To start it, run `ssh incufridge@cademons.org` (email me if you forget the password), and then there should be a symlink called `incufridge` to the directory with the code. `cd` into that directory. You can start the server by running 
 
 ```
 $ ./tcpserver
 ```
+
+You will need the `auth` file to be in the current directory.
 
 This won't let you logout though so if you want to start the server and be able to logout with it still running in the background, run:
 
@@ -69,6 +73,14 @@ You can grep again to make sure it's gone.
 
 ### [Incufridge-App](https://github.com/CADemons/Incufridge-App)
 This is a slightly modified version of the Incufridge-Client that is meant to run on the user's computer. Basically all the commands have been changed so that instead of sending serial events to the arduino they send tcp events. There is probably a bunch of excess code stored in this repository (you can try to find and delete it if you want).
+
+You can run it, just like before, with:
+
+```
+$ ./run.sh
+```
+
+You will need the `auth` file to be in the current directory.
 
 Unless you expect users to have the JDK on their laptop, I recommend you turn this into an executable jar file when it is ready for use (you can use Eclipse to do that).
 
