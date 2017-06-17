@@ -1,2 +1,4 @@
 tcpserver
 auth
+nohup.out
+log.txt
