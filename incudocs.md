@@ -78,7 +78,7 @@ At this point hopefully everything is set up and working and you should have the
 
 When you start the program, you'll see a screen which will let you view the current temperature (click the `Update` button). The `Get log` button will tell you the current temperature and target temperature and save it to a file with the timestamp.
 
-Then you can go to the `Console` tab. Here you can send individual commands to the incufridge. Here are some of my favorites:
+Then you can go to the `Console` tab. Here you can send individual commands to the incufridge. Here are the possible commands:
 
 * `set temp ##`: set the temperature
 * `createlog`: create a log file
@@ -87,7 +87,7 @@ Then you can go to the `Console` tab. Here you can send individual commands to t
 * `cancelall`: stops all jobs
 * `cancel jobname`: stops `jobname`.
 
-In the `Recipe` panel, you can write little programs comprised of these commands and run them all at once.
+In the `Recipe` panel, you can write little programs made of these commands and run them all at once.
 
 ### Date, time, units
 
@@ -118,7 +118,7 @@ Valid units:
 
 Valid dates:
 
-* `10/21/2017` (thats month, day, year: `MM/dd/yyyy`)
+* `10/21/2017` (that's month, day, year: `MM/dd/yyyy`)
 * `today`
 * `today+##` (you can add any amount in days to today)
 
